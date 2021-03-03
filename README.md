@@ -1,5 +1,7 @@
 # Lab 1
 
+![4 sided](https://res.cloudinary.com/salesucation-com-inc/image/upload/v1614742844/4Sided_kfdloz.svg "4 sided")
+
 Use the [pdf](ProblemSolvingBuildingBlocks.pdf) and the files in this repo to create solutions for these problems:
 
 1. Take a distance in kilometers as input and output the same distance converted to miles.
